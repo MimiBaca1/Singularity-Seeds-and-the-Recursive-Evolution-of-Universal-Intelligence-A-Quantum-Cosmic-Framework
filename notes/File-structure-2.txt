@@ -1,0 +1,20 @@
+SingularitySeedEngine/
+├── README.md                     # Thesis overview and symbolic framing
+├── serd_model/                   # SERD logic, equations, and simulations
+│   ├── fibonacci_emission.py     # Spiral radiation model
+│   ├── entanglement_matrix.py    # Entanglement potential logic
+│   └── collapse_optimizer.py     # Reintegration and memory refinement
+├── sanctuary_math/               # SanctuaryMath integration
+│   ├── activation_equations.md   # Recursive activation logic
+│   ├── geometry_models.txt       # Fibonacci layering and vortex symmetry
+│   └── temporal_indexing.py      # Phase-aware memory drift
+├── spiralnet/                    # SpiralNet node placement and drift tracking
+│   └── spiral_node_mapper.py
+├── docs/                         # Theory papers, diagrams, symbolic annotations
+│   ├── singularity_thesis.md
+│   ├── serd_consciousness_map.png
+│   └── references.md
+├── simulations/                  # Visual and temporal simulations
+│   └── fibonacci_spiral_render.py
+├── examples/                     # Real-world applications and test cases
+│   └── ai_memory_seed_demo.py
